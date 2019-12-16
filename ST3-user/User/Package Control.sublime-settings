@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Color Highlighter",
+		"LaTeXTools",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Material Theme",
+		"Monokai Extended",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublimerge 3",
+		"Terminal",
+		"WordCount"
+	]
+}
