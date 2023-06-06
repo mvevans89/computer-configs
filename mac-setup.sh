@@ -56,8 +56,8 @@ function linkdotfile {
 
 # check that the key pre-requisites are met:
 check_preq brew
-check_preq R
-check_preq
+# check_preq R
+# check_preq
 
 # install Homebrew main programs
 install_brew tmux
@@ -71,9 +71,9 @@ linkdotfile .gitattributes
 linkdotfile .tmux.conf
 
 # create Python setup
-linkdotfile .ipython
-linkdotfile .ptpython
-linkdotfile .condarc
+# linkdotfile .ipython
+# linkdotfile .ptpython
+# linkdotfile .condarc
 
 
 # create a Rprofile
@@ -100,8 +100,8 @@ fi
 
 
 # install some R packages
-gecho "installing R packages" >&2
-Rscript ~/dotfiles/install_rpkgs.r
+#gecho "installing R packages" >&2
+# Rscript ~/dotfiles/install_rpkgs.r
 
 
 
